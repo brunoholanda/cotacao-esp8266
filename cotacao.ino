@@ -9,8 +9,8 @@
 LiquidCrystal_I2C lcd(0x27, 16, 2);
 
 // Configuração do Wi-Fi
-const char* ssid = "Holanda Home";
-const char* password = "q6td99fmq3frvf4vpf7y38jv3";
+const char* ssid = "Wi_fi_name";
+const char* password = "wi_fi_password";
 
 // URL da API
 const char* apiUrl = "https://v6.exchangerate-api.com/v6/your_key/latest/USD";
